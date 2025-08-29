@@ -1,0 +1,14 @@
+streamlit 
+pandas 
+numpy 
+scikit-learn 
+plotly 
+networkx 
+shap 
+python-dotenv 
+faker 
+joblib 
+torch 
+matplotlib 
+seaborn 
+sqlite3
