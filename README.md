@@ -35,8 +35,8 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/priyadharshan-vadivel/CyberShield-Fraud-Detection-System.git
-    cd CyberShield-Fraud-Detection-System
+    git clone https://github.com/priyadharshan-vadivel/Military-Grade-AI-System-to-Detect-And-Dismantle-Money-Laundering-Flows.git
+    cd Military-Grade-AI-System-to-Detect-And-Dismantle-Money-Laundering-Flows
     ```
 
 2.  **Create and Activate a Virtual Environment**
