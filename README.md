@@ -1,4 +1,4 @@
-# CyberShield: AI-Powered Anti-Money Laundering (AML) Detection System
+# MILITARY-GRADE AI SYSTEM TO DETECT AND DISMANTLE MONEY LAUNDERING FLOWS
 
 CyberShield is an AI platform that detects money laundering using an ensemble of machine learning models and a rule engine. Unlike traditional "black box" systems, it uses Explainable AI (SHAP) to show exactly *why* a transaction is flagged as suspicious, ensuring transparency for investigators and regulators.
 
